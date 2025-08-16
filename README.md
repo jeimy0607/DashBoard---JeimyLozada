@@ -18,16 +18,16 @@ El dashboard permite visualizar información clave como productos, ventas, usuar
 El diseño es **totalmente responsivo** y se adapta a distintos dispositivos:
 
 - **Versión Computador**  
-  ![Computador](./evidencias/Computador-1280px.png)
+  ![Computador](./DashBoard/evidencias/Computador-1280px.png)
 
 - **Versión Tablet**  
-  ![Tablet](./evidencias/Tablet-768px.png)
+  ![Tablet](./DashBoard/evidencias/Tablet-768px.png)
 
 - **Versión Celular**  
-  ![Celular](./evidencias/Celular-360px.png)
+  ![Celular](./DashBoard/evidencias/Celular-360px.png)
 
   - **Barra de navegación al oprimir botón de navegación**  
-  ![Barra en tablet y celular](./evidencias/barraNav-CelularTablet.png)
+  ![Barra en tablet y celular](./DashBoard/evidencias/barraNav-CelularTablet.png)
 
 
 *(Las imágenes se encuentran en la carpeta `evidencias` del proyecto).*
